@@ -241,10 +241,11 @@ ul#nav li.current a { color: #F06000; }
    background:    #6c8094;
    padding-top: 90px;
    padding-bottom: 72px;
-   padding-left: 200px;
+   padding-left: 50px;
+   padding-right: 50px;
    align-items: center;
   justify-content: center;
-   overflow: hidden;
+   overflow: auto;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }

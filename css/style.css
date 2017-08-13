@@ -24,6 +24,8 @@ body * {
   max-width: 800px;
   background: #fff;
   padding: 100px 50px;
+  margin-left: 120px;
+  margin-right: 150px;
   position: relative;
   text-align: center;
   box-shadow: 0.5rem 0.5rem 2rem 0 rgba(0, 0, 0, 0.2);
