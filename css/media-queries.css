@@ -53,6 +53,7 @@
       width: 114px;
       height: 114px;
       margin-left: 12px;
+      justify-content: center;
    }
    #about .contact-details { width: 50%; }
    #about .download { width: 50%; }
@@ -236,7 +237,7 @@
    padding-right: 50px;
    align-items: center;
    justify-content: center;
-   overflow: auto;
+   overflow-x: scroll;
    }
 
    #resume .header-col {
@@ -250,6 +251,7 @@
       font-weight: 100;
       margin-left: 00px;
       margin-right: 50px;
+      overflow-x: scroll;
    }
 
    .entry .title h3 {
